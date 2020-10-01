@@ -1,3 +1,7 @@
+# npm i -g gatsby-cli
+# npm i @emotion/core @emotion/styled gatsby-plugin-emotion 
+# npm i gatsby-background-image
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
