@@ -1,4 +1,4 @@
-/* import { graphql, useStaticQuery } from 'gatsby';
+import { graphql, useStaticQuery } from 'gatsby';
 
 const useHabitaciones = () => {
 
@@ -29,4 +29,4 @@ const useHabitaciones = () => {
     }))
 }
  
-export default useHabitaciones; */
+export default useHabitaciones; 
