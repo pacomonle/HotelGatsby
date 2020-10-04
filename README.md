@@ -2,6 +2,8 @@
 # npm i @emotion/core @emotion/styled gatsby-plugin-emotion 
 # npm i gatsby-background-image
 # npm install --save gatsby-source-datocms
+# gatsby build
+# gatsby serve -> corre la aplicacion despues del build en el puerto localhost://9000
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
