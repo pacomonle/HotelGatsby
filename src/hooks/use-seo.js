@@ -1,4 +1,4 @@
-/* import { graphql, useStaticQuery} from 'gatsby';
+import { graphql, useStaticQuery} from 'gatsby';
 
 const useSeo = () => {
 
@@ -21,4 +21,4 @@ const useSeo = () => {
 
 }
  
-export default useSeo; */
+export default useSeo; 

@@ -12,7 +12,7 @@ const EnlaceHome = styled(Link)`
     text-decoration: none;
 `; 
 
-const Header = () => {
+const Header = ({description}) => {
     return ( 
         <>
         <header
@@ -38,8 +38,17 @@ const Header = () => {
                 >
                     <h1>Hotel Gatsby</h1>
                 </EnlaceHome>
-            
-
+                 <p
+                    css={css`
+                        text-align: center;
+                        color: #fff;
+                        margin: 0;
+                        padding: 1rem;
+                    `}
+                 >
+                 {description}
+                 </p>
+                
                 <Navegacion />
             </div>
         </header>
